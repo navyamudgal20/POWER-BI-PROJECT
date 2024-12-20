@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-The dashboard givees the overview to help an organization to improve employee performance and reduce retention.
+The dashboard gives the overview to help an organization to improve employee performance and reduce retention.
 
 ### Steps followed 
 
